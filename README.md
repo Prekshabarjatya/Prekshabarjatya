@@ -66,9 +66,8 @@
 ---
 
 ### 📫 **Let's Connect!**
-- **LinkedIn**: [linkedin.com/in/preksha-barjatya](https://www.linkedin.com/in/preksha-barjatya)  
-- **GitHub**: [github.com/PrekshaBarjatya](https://github.com/PrekshaBarjatya)  
-- **Email**: preksha.barjatya@example.com  
+- **LinkedIn**: [linkedin.com/in/preksha-barjatya](https://www.linkedin.com/in/preksha-barjatya-pb2024)  
+- **GitHub**: [github.com/PrekshaBarjatya](https://github.com/Prekshabarjatya)  
 
 ---
 
