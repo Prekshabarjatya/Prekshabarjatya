@@ -11,6 +11,7 @@
 - 🎓 **B.Tech in CSE (AI & ML)** at Acropolis Institute of Technology & Research, Indore.  
 - 💡 Passionate about **Machine Learning, Deep Learning, and Software Development**.  
 - 📚 **Relevant Coursework**
+  
 📌 **Core AI & ML Courses**  
 - **Machine Learning (AL405)** – Supervised & Unsupervised Learning, Neural Networks, SVM, Decision Trees.    
 - **Mathematics for ML (AL401)** – Linear Algebra, Eigenvalues, Singular Value Decomposition (SVD).  
