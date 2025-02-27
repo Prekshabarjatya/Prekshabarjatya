@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Preksha Barjatya 👋</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Software Developer | Tech Enthusiast 🚀</h3>
+<h3 align="center">Aspiring AI/ML Engineer | Tech Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrekshaBarjatya&label=Profile%20Views&color=0e75b6&style=flat" alt="PrekshaBarjatya" />
@@ -10,9 +10,21 @@
 ### 🚀 **About Me**
 - 🎓 **B.Tech in CSE (AI & ML)** at Acropolis Institute of Technology & Research, Indore.  
 - 💡 Passionate about **Machine Learning, Deep Learning, and Software Development**.  
-- 📚 Currently mastering **Data Structures, Algorithms, and AI/ML concepts**.  
-- 🔍 Exploring **MLOps, NLP, and Reinforcement Learning**.  
-- 🌍 Multilingual: **English, Malay, German**.  
+- 📚 **Relevant Coursework**
+📌 **Core AI & ML Courses**  
+- **Machine Learning (AL405)** – Supervised & Unsupervised Learning, Neural Networks, SVM, Decision Trees.    
+- **Mathematics for ML (AL401)** – Linear Algebra, Eigenvalues, Singular Value Decomposition (SVD).  
+
+📌 **Algorithms & Data Structures**  
+- **Data Structures (AI303)** – Trees, Hash Tables, Graphs (BFS/DFS), AVL Trees.  
+- **Design & Analysis of Algorithms (AL402)** – Divide & Conquer, Dynamic Programming, Greedy Algorithms, Graph Algorithms.  
+
+📌 **Software Development & Computer Science**  
+- **Object-Oriented Programming (AI304, AL406)** – Java, Python, C++, JDBC, Multithreading, Servlets.  
+- **Software Engineering (AL403)** – SDLC, Agile, UML, Software Testing.  
+- **Computer Organization (AL404)** – CPU Scheduling, Memory Hierarchy, Pipelining.  
+
+- 🌍 Multilingual: **English, Hindi**.  
 - 💼 **Open to internships & research opportunities** in AI/ML.  
 
 ---
