@@ -9,8 +9,10 @@
 
 ### 🚀 **About Me**
 - 🎓 **B.Tech in CSE (AI & ML)** at Acropolis Institute of Technology & Research, Indore.  
-- 💡 Passionate about **Machine Learning, Deep Learning, and Software Development**.  
-- 📚 **Relevant Coursework**
+- 💡 Passionate about **Machine Learning, Deep Learning, and Software Development**. 
+- 🌍 Multilingual: **English, Hindi**.  
+- 💼 **Open to internships & research opportunities** in AI/ML.
+### 📚 **Relevant Coursework**
   
 📌 **Core AI & ML Courses**  
 - **Machine Learning (AL405)** – Supervised & Unsupervised Learning, Neural Networks, SVM, Decision Trees.    
@@ -24,9 +26,6 @@
 - **Object-Oriented Programming (AI304, AL406)** – Java, Python, C++, JDBC, Multithreading, Servlets.  
 - **Software Engineering (AL403)** – SDLC, Agile, UML, Software Testing.  
 - **Computer Organization (AL404)** – CPU Scheduling, Memory Hierarchy, Pipelining.  
-
-- 🌍 Multilingual: **English, Hindi**.  
-- 💼 **Open to internships & research opportunities** in AI/ML.  
 
 ---
 
