@@ -41,11 +41,6 @@ Here are some of the spells and potions I use to create my projects.
 Here's a little peek at my activity. I'm trying my best to keep my garden green!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
