@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning all about **MERN Stack**.
 - 👯 I’m looking to collaborate on open-source projects that spread joy.
 - 🤔 I’m looking for help with understanding how to make the perfect cup of coffee.
-- 📫 How to reach me: You can slide into my DMs on [Twitter](https://x.com/PrekshaBarjatya?t=zeFcdAx8VaVHjNtKE8tFIA&s=09) or [LinkedIn](https://www.linkedin.com/in/preksha-barjatya-pb2024/).
+- 📫 How to reach me: You can slide into my DMs on [Twitter](https://x.com/PrekshaBarjatya) or [LinkedIn](https://www.linkedin.com/in/preksha-barjatya-pb2024/).
 - 😄 Pronouns: She/Her/Hers (or your pronouns!)
 - ⚡ Fun fact: I believe that with enough snacks, any bug can be fixed. 🍪
 
@@ -54,7 +54,7 @@ I love meeting new people. Let's connect and build something amazing together!
   <a href="https://www.linkedin.com/in/preksha-barjatya-pb2024/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/PrekshaBarjatya?t=zeFcdAx8VaVHjNtKE8tFIA&s=09">
+  <a href="https://x.com/PrekshaBarjatya">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
