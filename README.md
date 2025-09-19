@@ -1,67 +1,35 @@
-# Hi there, I'm **Preksha Barjatya** 👋
+<div align="center">
 
-**Aspiring Software Engineer | DSA Mastery in Progress 🚀 | Tech Enthusiast**
+  <img src="https://raw.githubusercontent.com/username/repository/main/your-header-image.png" alt="My Custom Header"/>
 
----
+</div>
 
-## 🚀 **About Me:**
-- 🎓 **B.Tech in Computer Science and Engineering - Specializing in AIML** from **Acropolis Institute of Technology & Research, Indore**.
-- 💡 Passionate about **Software Development**, **Problem Solving**, and **mastering Data Structures & Algorithms (DSA)**.
-- 🌍 Multilingual: **English, Hindi**.
-- 💼 Actively seeking **internships** & **opportunities** to apply my **Problem Solving skills** in real-world applications.
+<p align="center">
+  Hi, I'm [Your Name]! A passionate [Your Role] from [Your Location]. Welcome to my profile! 🚀
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</p>
 
-## 📚 **Relevant Coursework:**
-### 📌 **Algorithms & Data Structures**
-- **Data Structures (AI303)** – Trees, Hash Tables, Graphs (BFS/DFS), AVL Trees.
-- **Design & Analysis of Algorithms (AL402)** – Divide & Conquer, Dynamic Programming, Greedy Algorithms, Graph Algorithms.
 
-### 📌 **Software Development & Computer Science**
-- **Object-Oriented Programming (AI304, AL406)** – Java, Python, C++, JDBC, Multithreading, Servlets.
-- **Software Engineering (AL403)** – SDLC, Agile, UML, Software Testing.
-- **Computer Organization (AL404)** – CPU Scheduling, Memory Hierarchy, Pipelining.
+<div align="center">
+  
+  <a href="[LINK_TO_YOUR_PROJECT_1]"><img src="[URL_FOR_GRID_IMAGE_1]" alt="Project 1" width="45%"></a><a href="[LINK_TO_YOUR_PROJECT_2]"><img src="[URL_FOR_GRID_IMAGE_2]" alt="Project 2" width="45%"></a>
+  
+  <a href="[LINK_TO_YOUR_PROJECT_3]"><img src="[URL_FOR_GRID_IMAGE_3]" alt="Project 3" width="45%"></a><a href="[LINK_TO_YOUR_PROJECT_4]"><img src="[URL_FOR_GRID_IMAGE_4]" alt="Project 4" width="45%"></a>
 
----
+</div>
 
-## 🛠 **Tech Stack:**
-### 💻 **Languages**:
-- **C** | **C++** | **Python** | **Java** 
-
-### ⚙ **Software & Tools**:
-- **VS Code** | **Jupyter Notebook** | **Git** | **GitHub**
-
----
-
-## 📈 **GitHub Stats:**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrekshaBarjatya&show_icons=true&count_private=true&hide_title=true&theme=radical)
-
----
-
-## 🚀 **My DSA Journey**:
-
-### 📌 **Repository: [My-DSA-Journey](https://github.com/PrekshaBarjatya/My-DSA-Journey)**
-This repo is my daily training ground for **mastering Data Structures & Algorithms (DSA)**, complete with:
-- **Real-world case studies**  
-- **Brute-force to optimal solutions**  
-- **Key insights** I learn every day on this journey to **DSA mastery**.
-
-### 🎯 **Current Goal**:
-Building an **unshakable foundation** in DSA so I can tackle complex software problems efficiently. I'm committed to daily practice and tracking my progress with **hands-on exercises** and **case studies**.
-
----
-
-## 📫 **Let's Connect!**
-- **LinkedIn**: [linkedin.com/in/preksha-barjatya](https://www.linkedin.com/in/preksha-barjatya)
-- **GitHub**: [github.com/PrekshaBarjatya](https://github.com/PrekshaBarjatya)
-
-✨ **Thanks for visiting!** Feel free to explore my repositories and get in touch!
-
----
-
-## 💬 **What’s Next?**
-- **Complete DSA mastery** to solve real-world software challenges efficiently.
-- **Collaborate on projects** that apply my **DSA skills** in building robust, high-performance applications.
-
----
+<div align="center">
+  
+<a href="[LINK_TO_YOUR_PROJECT_1]">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="[URL_FOR_GRID_IMAGE_1_DARK]">
+    <source media="(prefers-color-scheme: light)" srcset="[URL_FOR_GRID_IMAGE_1_LIGHT]">
+    <img alt="Project 1" src="[URL_FOR_GRID_IMAGE_1_DARK]" width="45%">
+  </picture>
+</a><a href="[LINK_TO_YOUR_PROJECT_2]"><img src="[URL_FOR_GRID_IMAGE_2]" alt="Project 2" width="45%"></a>
+  
+</div>
