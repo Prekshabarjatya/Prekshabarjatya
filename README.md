@@ -1,11 +1,17 @@
 # Preksha Barjatya
 
-**B.Tech Final Year — CSE (AI & ML)** · Bhopal, India
+**B.Tech Final Year — CSE (AI & ML)** · Indore, India
 
 Building at the intersection of machine learning and financial systems.
 
 ---
+### Background
 
+Final year B.Tech in Computer Science with specialization in AI & ML. Spending the year before graduation building real fintech systems — fraud detection, sentiment pipelines, quantitative models — rather than collecting certificates.
+
+Studying financial markets through Zerodha Varsity alongside every project.
+
+---
 ### What I'm Working On
 
 **12-Month Fintech Data Journey** — building production-grade projects across the full data science stack with a focus on financial domain knowledge.
@@ -29,14 +35,6 @@ Current project: [stock-momentum-eda](https://github.com/Prekshabarjatya/stock-m
 **Now** — Python · Pandas · NumPy · SQL · Git
 
 **Building toward** — XGBoost · FastAPI · Docker · MLflow · Airflow · AWS
-
----
-
-### Background
-
-Final year B.Tech in Computer Science with specialization in AI & ML. Spending the year before graduation building real fintech systems — fraud detection, sentiment pipelines, quantitative models — rather than collecting certificates.
-
-Studying financial markets through Zerodha Varsity alongside every project.
 
 ---
 
