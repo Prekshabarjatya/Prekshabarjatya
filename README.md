@@ -2,42 +2,49 @@
 
 **B.Tech Final Year — CSE (AI & ML)** · Indore, India
 
-Building at the intersection of machine learning and financial systems.
+Turning data into insights through analytics, visualization, and data-driven problem solving.
 
 ---
+
 ### Background
 
-Final year B.Tech in Computer Science with specialization in AI & ML. Spending the year before graduation building real fintech systems — fraud detection, sentiment pipelines, quantitative models — rather than collecting certificates.
-
-Studying financial markets through Zerodha Varsity alongside every project.
+Final-year Computer Science student specializing in AI & ML with hands-on experience in data analytics, business intelligence, and data engineering. Experienced in Python, SQL, Power BI, and Tableau, with a strong interest in building scalable data solutions and extracting actionable insights from complex datasets.
 
 ---
+
 ### What I'm Working On
 
-**12-Month Fintech Data Journey** — building production-grade projects across the full data science stack with a focus on financial domain knowledge.
+Building end-to-end data analytics projects focused on exploratory data analysis, dashboarding, and data pipelines.
 
-Current project: [stock-momentum-eda](https://github.com/Prekshabarjatya/stock-momentum-eda) — NIFTY 50 exploratory analysis with a custom momentum scoring system.
+Current project: **Stock Momentum EDA** — analyzing NIFTY 50 stocks using Python, Pandas, and SQL to develop a custom momentum scoring framework.
+
+Previously contributed to **Thermal Guard AI**, building data ingestion pipelines and processing geospatial data for a real-time analytics dashboard.
 
 ---
 
 ### Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [stock-momentum-eda](https://github.com/Prekshabarjatya/stock-momentum-eda) | NIFTY 50 EDA + momentum score | Python, Pandas, SQL |
-
-*Updated as projects ship.*
+| Project                | Description                                                          | Stack                         |
+| ---------------------- | -------------------------------------------------------------------- | ----------------------------- |
+| **Stock Momentum EDA** | Exploratory analysis of NIFTY 50 stocks with custom momentum scoring | Python · Pandas · SQL         |
+| **Thermal Guard AI**   | Data ingestion and processing pipeline for geospatial analytics      | Python · APIs · Data Pipeline |
 
 ---
 
-### Stack
+### Tech Stack
 
-**Now** — Python · Pandas · NumPy · SQL · Git
+**Languages:** Python · SQL · C++
 
-**Building toward** — XGBoost · FastAPI · Docker · MLflow · Airflow · AWS
+**Data:** Pandas · NumPy · EDA · Feature Engineering · Hypothesis Testing
+
+**BI & Visualization:** Power BI · Tableau · Matplotlib
+
+**Tools:** Git
 
 ---
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/preksha-barjatya) · [GitHub](https://github.com/Prekshabarjatya)
+**LinkedIn:** linkedin.com/in/preksha-barjatya-pb2024
+
+**GitHub:** github.com/Prekshabarjatya
