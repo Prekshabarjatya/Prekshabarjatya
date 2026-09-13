@@ -1,618 +1,329 @@
 <div align="center">
 
-# `Preksha Barjatya`
+# `PREKSHA BARJATYA`
 
-### `AI Engineer` · `CSE (AI & ML)` · `Python`
+### AI ENGINEER · CSE (AI & ML)
 
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graphql&logoColor=E10098"/>
-<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-<br/>
+<p>
+  <a href="https://github.com/Prekshabarjatya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/preksha-barjatya-pb2024">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-`AI Systems` · `RAG` · `Agentic AI` · `Backend` · `Data Engineering`
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/preksha-barjatya-pb2024">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Prekshabarjatya">
-  <img src="https://img.shields.io/badge/GitHub-Prekshabarjatya-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+`AI Systems` · `Generative AI` · `Backend` · `Data` · `Automation`
 
 </div>
 
 ---
 
-## `$ whoami`
-
 ```python
-class PrekshaBarjatya:
+profile = {
+    "name": "Preksha Barjatya",
+    "role": "AI Engineer",
+    "degree": "B.Tech CSE (AI & ML)",
+    "location": "Indore, India",
+    "currently": "building AI + data systems"
+}
 
-    name = "Preksha Barjatya"
-    role = "AI Engineer"
-    degree = "B.Tech CSE (AI & ML)"
-    location = "Indore, India"
+about_me
 
-    focus = [
-        "Generative AI",
-        "RAG Systems",
-        "Agentic AI",
-        "Backend Engineering",
-        "Data Engineering",
-        "Analytics"
-    ]
+AI & ML engineering candidate with hands-on experience across Generative AI, RAG, backend engineering, data analytics, and data pipelines.
 
-    primary_stack = [
-        "Python",
-        "SQL",
-        "LangChain",
-        "LangGraph",
-        "FastAPI",
-        "Pandas"
-    ]
+Currently focused on building practical AI applications with Python, LangChain, LangGraph, FastAPI, SQL, and structured LLM workflows.
 
 
 ---
 
-$ cat profile.txt
-
-AI & ML engineering candidate with hands-on experience across
-
-    Python
-      ├── Backend Engineering
-      ├── Data Analytics
-      └── AI / ML
-
-    SQL
-      ├── Data Analysis
-      └── Data Pipelines
-
-    Generative AI
-      ├── RAG
-      ├── Agentic AI
-      ├── Multi-Agent Workflows
-      └── Document Intelligence
-
-    Infrastructure
-      ├── Docker
-      ├── Kubernetes
-      └── AWS
-
-I build practical systems at the intersection of AI, data, and backend engineering.
-
-My current focus is on turning LLM capabilities into structured applications using RAG, multi-agent workflows, tool calling, FastAPI, and reliable data pipelines.
-
-
----
-
-$ ./current_work
-
-┌─────────────────────────────────────────────────────────────┐
-│                       CURRENT FOCUS                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  [01] Retrieval-Augmented Generation                        │
-│       └── ingestion → embeddings → retrieval → synthesis   │
-│                                                             │
-│  [02] Agentic AI                                             │
-│       └── agents → tools → state → evaluation               │
-│                                                             │
-│  [03] AI Backend Systems                                     │
-│       └── FastAPI → APIs → validation → deployment          │
-│                                                             │
-│  [04] Data Engineering                                       │
-│       └── ingestion → transformation → analytics           │
-│                                                             │
-│  [05] Production Infrastructure                             │
-│       └── Docker → AWS → Kubernetes                          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-
----
-
-$ tree ~/projects
-
-projects/
-│
-├── ai-ecommerce-listing-optimizer/
-│   ├── RAG
-│   ├── multi-agent-workflows
-│   ├── knowledge-retrieval
-│   ├── listing-auditing
-│   ├── content-generation
-│   └── quality-scoring
-│
-├── multi-agent-resume-optimizer/
-│   ├── LangGraph
-│   ├── document-intelligence
-│   ├── tool-calling
-│   ├── Pydantic
-│   ├── ATS-analysis
-│   └── grounded-LLM-scoring
-│
-├── ai-research-assistant/
-│   ├── FastAPI
-│   ├── LangChain
-│   ├── document-ingestion
-│   ├── embeddings
-│   ├── vector-retrieval
-│   └── response-synthesis
-│
-├── stock-momentum-eda/
-│   ├── Python
-│   ├── Pandas
-│   ├── SQL
-│   ├── EDA
-│   └── momentum-scoring
-│
-└── thermal-guard-ai/
-    ├── external-APIs
-    ├── data-ingestion
-    ├── geospatial-processing
-    └── analytics-dashboard
-
-
----
-
-01 · AI E-Commerce Listing Optimizer
-
-Agentic AI · LLM · RAG · Automation
-
-BRAND KNOWLEDGE BASE
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │  RETRIEVAL  │
-                         └──────┬──────┘
-                                │
-                                ▼
-                    ┌──────────────────────┐
-                    │    AGENT WORKFLOW    │
-                    ├──────────────────────┤
-                    │                      │
-                    │  Retrieve            │
-                    │  Audit               │
-                    │  Generate            │
-                    │  Optimize            │
-                    │  Critique            │
-                    │  Validate            │
-                    │                      │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                       VALIDATED LISTING
-
-A knowledge-base-driven AI listing optimizer for generating and auditing e-commerce product content.
-
-The system combines RAG with multi-agent workflows to ground generated content in curated brand knowledge and reduce unsupported claims.
-
-Input
-  │
-  ├── Product information
-  ├── Brand knowledge
-  └── Keywords
-       │
-       ▼
-Knowledge Retrieval
-       │
-       ▼
-Listing Generation
-       │
-       ▼
-Attribute Validation
-       │
-       ▼
-Keyword Optimization
-       │
-       ▼
-Critic Scoring
-       │
-       ▼
-Human Review
-
-Stack
-
-Python · RAG · LangChain · LLM · Agentic AI
-Prompt Engineering · Knowledge Retrieval
-
-
----
-
-02 · Multi-Agent Resume Optimizer
-
-Agentic AI · Document Intelligence · LLM · Tool Calling
-
-RESUME + JOB DESCRIPTION
-                                  │
-                                  ▼
-                         ┌────────────────┐
-                         │  LANGGRAPH     │
-                         │  AGENT GRAPH   │
-                         └───────┬────────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              │                  │                  │
-              ▼                  ▼                  ▼
-          EXTRACT             VALIDATE            SCORE
-              │                  │                  │
-              └──────────────────┼──────────────────┘
-                                 ▼
-                       GROUNDED ANALYSIS
-                                 │
-                                 ▼
-                         FINAL JOB FIT
-
-A LangGraph-orchestrated multi-agent pipeline for analyzing resumes against job descriptions.
-
-The system combines deterministic ATS, skill, and keyword checks with grounded LLM judgment for fit assessment, synonym handling, and gap analysis.
-
-PDF / DOCX / TEXT
-        │
-        ▼
-    Extraction
-        │
-        ▼
- Structured Data
-        │
-        ├───────────────┐
-        ▼               ▼
-  Deterministic       LLM
-     Checks          Analysis
-        │               │
-        └───────┬───────┘
-                ▼
-         Hybrid Scoring
-                │
-                ▼
-         Evidence-Grounded
-             Results
-
-Stack
-
-Python · LangGraph · LLM · Pydantic
-Tool Calling · Document Intelligence
-ATS Analysis · Prompt Injection Safety
-
-
----
-
-03 · AI Research Assistant
-
-FastAPI · LangChain · RAG
-
-Documents
-    │
-    ▼
-┌──────────────┐
-│  Ingestion   │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│   Chunking   │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│  Embeddings  │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│Vector Search │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│    LLM       │
-└──────┬───────┘
-       │
-       ▼
-    Answer
-
-A Retrieval-Augmented Generation application for intelligent document querying.
-
-The pipeline handles document ingestion, chunking, embeddings generation, vector retrieval, and response synthesis.
-
-Stack
-
-Python · FastAPI · LangChain · RAG
-Embeddings · Vector Search · REST APIs
-
-
----
-
-04 · Stock Momentum EDA
-
-Python · Pandas · SQL · Analytics
-
-NIFTY 50
-                       │
-                       ▼
-                 MARKET DATA
-                       │
-                       ▼
-              ┌────────────────┐
-              │ Python / Pandas│
-              └───────┬────────┘
-                      │
-                      ▼
-                    EDA
-                      │
-                      ▼
-                    SQL
-                      │
-                      ▼
-             MOMENTUM FEATURES
-                      │
-                      ▼
-             CUSTOM SCORING
-                      │
-                      ▼
-              ANALYTICAL SIGNAL
-
-Exploratory analysis of NIFTY 50 stocks using Python, Pandas, and SQL.
-
-The project focuses on identifying momentum patterns and developing a custom momentum scoring framework for comparative stock analysis.
-
-Stack
-
-Python · Pandas · SQL · EDA
-Feature Analysis · Data Processing
-
-
----
-
-05 · Thermal Guard AI
-
-Data Pipelines · APIs · Geospatial Analytics
-
-External APIs
-      │
-      ▼
-Data Ingestion
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Geospatial Processing
-      │
-      ▼
-Analytics Dataset
-      │
-      ▼
-Dashboard
-
-Previously contributed to Thermal Guard AI by building data ingestion pipelines and processing geospatial data for a real-time analytics dashboard.
-
-Stack
-
-Python · APIs · Data Pipelines
-Geospatial Data · Analytics
-
-
----
-
-$ ./stack --all
-
-AI / ML
+what_i_work_with
+
+<table>
+<tr>
+<td width="33%" align="center">AI / ML
 
 LangChain
 LangGraph
-Retrieval-Augmented Generation
-Document Embeddings
+RAG
+LLMs
+Embeddings
 Vector Search
-Prompt Engineering
-Generative AI
-Groq API
 
-Backend
-
-FastAPI
-REST APIs
-API Design
-Pydantic
-
-Data
+</td><td width="33%" align="center">BACKEND
 
 Python
+FastAPI
+REST APIs
+Pydantic
+API Design
+
+</td><td width="33%" align="center">DATA
+
 SQL
 Pandas
 NumPy
-Matplotlib
 EDA
-Feature Engineering
-
-BI / Visualization
-
-Power BI
-Tableau
 Matplotlib
+Data Pipelines
 
-Cloud / DevOps
+</td>
+</tr><tr>
+<td width="33%" align="center">DEVOPS
 
 Git
 Docker
 Docker Compose
 Kubernetes
-AWS ECR
-AWS ECS
 
-Programming
+</td><td width="33%" align="center">CLOUD
+
+AWS
+ECR
+ECS
+
+</td><td width="33%" align="center">BI
+
+Power BI
+Tableau
+
+</td>
+</tr>
+</table>
+---
+
+featured_projects
+
+<table>
+<tr>
+<td width="50%" valign="top">🤖 AI E-Commerce Listing Optimizer
+
+Agentic AI · RAG · LLM
+
+Knowledge-base-driven AI system for e-commerce product content generation and validation.
 
 Python
-JavaScript
+LangChain
+RAG
+LLM
+Agentic AI
+Automation
+
+</td><td width="50%" valign="top">📄 Multi-Agent Resume Optimizer
+
+Agentic AI · LLM · Tool Calling
+
+LangGraph-based system for resume extraction, validation, ATS analysis, job-fit scoring, and gap analysis.
+
+Python
+LangGraph
+Pydantic
+LLM
+Tool Calling
+
+</td>
+</tr><tr>
+<td width="50%" valign="top">🔎 AI Research Assistant
+
+FastAPI · LangChain · RAG
+
+AI application for intelligent document querying with ingestion, chunking, embeddings, retrieval, and response synthesis.
+
+Python
+FastAPI
+LangChain
+RAG
+Embeddings
+
+</td><td width="50%" valign="top">📈 Stock Momentum EDA
+
+Python · Pandas · SQL
+
+NIFTY 50 exploratory analysis with a custom momentum scoring framework.
+
+Python
+Pandas
 SQL
+EDA
+Analytics
 
+</td>
+</tr><tr>
+<td width="50%" valign="top">🌡️ Thermal Guard AI
 
+Python · APIs · Data Pipelines
+
+Data ingestion and geospatial processing work supporting real-time urban heat analytics.
+
+Python
+APIs
+Data Pipelines
+Geospatial Data
+
+</td><td width="50%" valign="top">+ more
+
+Exploring and building across:
+
+AI / ML
+Data Analytics
+Backend
+Automation
+Full Stack
+Python
+
+</td>
+</tr>
+</table>
 ---
 
-$ cat experience.log
+tech_stack
 
-2026
-│
-├── AI Engineer Intern
-│   Santerra Hygiene Pvt. Ltd.
-│
-│   ├── AI automation workflows
-│   ├── Python
-│   ├── Prompt engineering
-│   ├── Model integration
-│   └── Business / finance process automation
-│
-└── Data Analyst Intern
-    Think AI Corporation
-     
-    ├── Power BI
-    ├── Tableau
-    ├── Python + SQL EDA
-    ├── Data pipelines
-    └── Multi-source data transformation
+TECH_STACK = {
 
-
----
-
-$ cat education.log
-
-┌──────────────────────────────────────────────────────┐
-│ B.Tech. Computer Science Engineering (AI & ML)       │
-│                                                      │
-│ Acropolis Institute of Technology and Research       │
-│ 2023 → 2027                                          │
-│                                                      │
-│ CGPA: 8.0                                            │
-└──────────────────────────────────────────────────────┘
-
-
----
-
-$ cat certifications.log
-
-[✓] Agentic AI Certified Foundations Associate
-    Oracle
-    Issued: September 2026
-    Expires: September 2028
-
-[✓] Programming with Python Professional Certificate
-    OpenEDG Python Institute
-    Issued: November 2024
-
-[~] Generative AI, RAG, Multimodal & Agentic AI
-    Acropolis Institute × Navigate Labs
-    Status: Ongoing
-
-
----
-
-$ ./learning_path
-
-AI ENGINEERING
-                              │
-          ┌───────────────────┼───────────────────┐
-          │                   │                   │
-          ▼                   ▼                   ▼
-        DATA                 AI                BACKEND
-          │                   │                   │
-       Python               LLMs              FastAPI
-       SQL                  RAG                REST
-       Pandas               Agents             APIs
-       EDA                  Tools              Pydantic
-          │                   │                   │
-          └───────────────────┼───────────────────┘
-                              │
-                              ▼
-                       PRODUCTION SYSTEMS
-                              │
-                    ┌─────────┼─────────┐
-                    ▼         ▼         ▼
-                  Docker     AWS    Kubernetes
-
-
----
-
-$ git status
-
-On branch main
-
-Current direction:
-
-    + AI Engineering
-    + Generative AI
-    + Agentic AI
-    + RAG
-    + Backend Engineering
-    + Data Engineering
-    + Analytics
-
-Status: building.
-
-
----
-
-$ python interests.py
-
-interests = {
-    "AI": [
-        "RAG",
-        "Agentic AI",
-        "LLM applications",
-        "Multi-agent systems"
-    ],
-
-    "Backend": [
-        "API design",
-        "FastAPI",
-        "Production Python",
-        "Scalable systems"
-    ],
-
-    "Data": [
-        "Analytics",
+    "languages": [
+        "Python",
         "SQL",
-        "Data pipelines",
-        "Data visualization"
+        "JavaScript"
     ],
 
-    "Infrastructure": [
+    "ai_ml": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Generative AI",
+        "Document Embeddings",
+        "Vector Search",
+        "Prompt Engineering",
+        "Groq API"
+    ],
+
+    "backend": [
+        "FastAPI",
+        "REST APIs",
+        "API Design",
+        "Pydantic"
+    ],
+
+    "data": [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "EDA",
+        "Feature Engineering"
+    ],
+
+    "cloud_devops": [
+        "Git",
         "Docker",
-        "AWS",
-        "Kubernetes"
+        "Docker Compose",
+        "Kubernetes",
+        "AWS ECR",
+        "AWS ECS"
+    ],
+
+    "visualization": [
+        "Power BI",
+        "Tableau",
+        "Matplotlib"
     ]
 }
 
 
 ---
 
-$ connect
+experience
 
-$ whoami
+<table>
+<tr>
+<td width="20%">2026
 
-Preksha Barjatya
-AI Engineer | CSE (AI & ML)
+</td>
+<td>AI Engineer Intern
 
-$ echo $LOCATION
+Santerra Hygiene Pvt. Ltd.
 
-Indore, India
+AI automation · Python · Prompt Engineering · Model Integration
 
-$ echo $LINKEDIN
+</td>
+</tr><tr>
+<td>2026
 
-linkedin.com/in/preksha-barjatya-pb2024
+</td>
+<td>Data Analyst Intern
 
-$ echo $GITHUB
+Think AI Corporation
 
-github.com/Prekshabarjatya
+Python · SQL · Power BI · Tableau · EDA · Data Pipelines
 
-<div align="center">
+</td>
+</tr>
+</table>
 ---
 
-build → test → evaluate → deploy → iterate
+education
 
-<br/><img src="https://komarev.com/ghpvc/?username=Prekshabarjatya&style=flat-square&label=PROFILE+VIEWS"/></div>
+B.Tech. Computer Science Engineering (AI & ML)
+
+Acropolis Institute of Technology and Research
+2023 → 2027
+
+CGPA: 8.0
+
+
+---
+
+certifications
+
+	Certification	Organization
+
+🏅	Agentic AI Certified Foundations Associate	Oracle
+🐍	Programming with Python Professional Certificate	OpenEDG Python Institute
+🤖	Generative AI, RAG, Multimodal & Agentic AI	Acropolis × Navigate Labs
+
+
+
+---
+
+currently_learning
+
+<p align="center">Production Python → FastAPI → PostgreSQL → Redis → Docker → AWS → Kubernetes
+
+</p>goal = "build production-grade AI systems"
+
+
+---
+
+github_activity
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prekshabarjatya&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prekshabarjatya&layout=compact&hide_border=true&theme=transparent" height="165"/></div>
+---
+
+<div align="center">$ git status
+
+AI Engineering    ████████████████████░░
+Generative AI     ███████████████████░░░
+Backend           ████████████████░░░░░
+Data Engineering  █████████████████░░░░
+Cloud / DevOps    █████████████░░░░░░░░
+
+status: building.
+
+build · learn · ship · repeat
+
+<br><a href="https://linkedin.com/in/preksha-barjatya-pb2024">
+LinkedIn
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Prekshabarjatya">
+GitHub
+</a></div>
+```
