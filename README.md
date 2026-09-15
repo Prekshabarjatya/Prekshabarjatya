@@ -330,18 +330,6 @@ Python · SQL · Power BI · Tableau · EDA · Data Pipelines
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prekshabarjatya&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prekshabarjatya&layout=compact&hide_border=true&theme=transparent" height="165">
-
-</div>
-
----
-
 ## `$ git status`
 
 ```text
