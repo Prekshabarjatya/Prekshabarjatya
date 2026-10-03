@@ -115,7 +115,7 @@ Analysis and pipeline work.
 
 ## Education & certifications
 
-**B.Tech. Computer Science Engineering (AI & ML)**, Acropolis Institute of Technology and Research · `2023 → 2027` · CGPA 8.0
+**B.Tech. Computer Science Engineering (AI & ML)**, Acropolis Institute of Technology and Research · `2023 → 2027` · CGPA 7.94
 
 | Certification                                       | Organization              |
 | :-------------------------------------------------- | :------------------------ |
