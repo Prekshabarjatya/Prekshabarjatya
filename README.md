@@ -19,7 +19,7 @@
 
 <hr>
 
-<p align="center"><em>Goal: build production-grade AI systems. Find me on <a href="https://linkedin.com/in/preksha-barjatya-pb2024">LinkedIn</a>.</em></p>
+<p align="center"><em>Goal: build production-grade AI systems. Portfolio: <a href="https://www.prekshaa.tech">prekshaa.tech</a> · <a href="https://www.prekshaa.tech/Preksha_Barjatya_Resume.pdf">Resume (PDF)</a> · <a href="https://linkedin.com/in/preksha-barjatya-pb2024">LinkedIn</a>.</em></p>
 
 ## Contents
 
@@ -151,9 +151,10 @@ status: building.
 
 ## Let's connect
 
-Working on something with AI or data? [Say hi on LinkedIn](https://linkedin.com/in/preksha-barjatya-pb2024).
+Working on something with AI or data? See my portfolio at [prekshaa.tech](https://www.prekshaa.tech) or [say hi on LinkedIn](https://linkedin.com/in/preksha-barjatya-pb2024).
 
 <p>
+	<a href="https://www.prekshaa.tech"><img src="https://img.shields.io/badge/Portfolio-prekshaa.tech-fc60a8?style=for-the-badge" alt="Portfolio: prekshaa.tech"></a>
 	<a href="https://linkedin.com/in/preksha-barjatya-pb2024"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 	<a href="https://github.com/Prekshabarjatya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
