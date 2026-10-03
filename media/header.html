@@ -1,0 +1,76 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<!-- Render: headless Chrome, 1280px wide, transparent bg, URL hash "#<light|dark>,<sparkle|terminal|robot|name>" -->
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600&display=block" rel="stylesheet">
+<style>
+  html,body{margin:0;background:transparent}
+  body{width:1280px;padding-bottom:24px;font-family:'Chakra Petch',sans-serif;text-align:center}
+  svg{display:block;margin:0 auto 28px}
+  h1{margin:0;font-size:212px;line-height:.98;font-weight:600;letter-spacing:.01em;color:var(--ink)}
+  .cursor{display:inline-block;width:.42em;height:.72em;margin-left:.06em;background:#3cc5b1;vertical-align:-.02em}
+</style></head>
+<body>
+<h1>Preksha<br>Barjatya</h1>
+<script>
+const [theme, variant] = location.hash.slice(1).split(',');
+document.body.style.setProperty('--ink', theme === 'dark' ? '#e6edf3' : '#1f2328');
+
+// 4-point star (astroid) of radius r centred at (cx, cy)
+const star = (grid, cx, cy, r) => grid.forEach((row, y) => row.forEach((_, x) => {
+  if (Math.abs(x - cx) ** (2 / 3) + Math.abs(y - cy) ** (2 / 3) <= r ** (2 / 3) + 1e-9) row[x] = '#';
+}));
+const sparkle = () => {
+  const g = Array.from({ length: 19 }, () => Array(30).fill('.'));
+  star(g, 11, 9, 9); star(g, 25, 4, 3); star(g, 24, 15, 2);
+  return g.map(r => r.join(''));
+};
+
+const MOTIFS = {
+  sparkle: [24, sparkle()],
+  terminal: [28, [
+    '##############################',
+    '##.##.##.#####################',
+    '##############################',
+    '#............................#',
+    '#............................#',
+    '#...##.......................#',
+    '#....##......................#',
+    '#.....##.....................#',
+    '#......##....................#',
+    '#.....##.....................#',
+    '#....##......................#',
+    '#...##.....########..........#',
+    '#..........########..........#',
+    '#............................#',
+    '#............................#',
+    '##############################',
+  ]],
+  robot: [28, [
+    '..........##..........',
+    '.........####.........',
+    '..........##..........',
+    '...################...',
+    '..##################..',
+    '..##################..',
+    '####...########...####',
+    '####...########...####',
+    '####...########...####',
+    '..##################..',
+    '..##################..',
+    '..#####........#####..',
+    '..##################..',
+    '...################...',
+    '........######........',
+  ]],
+};
+
+if (variant === 'name') {
+  document.querySelector('h1').insertAdjacentHTML('beforeend', '<span class="cursor"></span>');
+} else {
+  const [cell, rows] = MOTIFS[variant];
+  const rects = rows.flatMap((row, y) => [...row].map((ch, x) => ch === '#' ? `<rect x="${x}" y="${y}" width="1" height="1"/>` : ''));
+  document.body.insertAdjacentHTML('afterbegin',
+    `<svg width="${rows[0].length * cell}" height="${rows.length * cell}" viewBox="0 0 ${rows[0].length} ${rows.length}" fill="#3cc5b1" shape-rendering="crispEdges">${rects.join('')}</svg>`);
+}
+</script>
+</body></html>
